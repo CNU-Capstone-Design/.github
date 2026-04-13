@@ -1,4 +1,4 @@
-# 📸 AI Cosmetic Surgery Simulation Platform
+# AI Cosmetic Surgery Simulation Platform
 > **얼굴 부위별 특징 분리를 이용한 차세대 성형 시뮬레이션 및 분석 플랫폼**
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
