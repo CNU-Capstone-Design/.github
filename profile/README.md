@@ -31,13 +31,15 @@
 * **Database/Storage**: AES-256 Encrypted Storage
 
 ---
+### Model Architecture
 
-## 🧬 System Architecture
-```mermaid
-graph LR
-    A[User Image] --> B(BiSeNet Parsing)
-    B --> C{Region Mask}
-    C --> D[Region Inversion]
-    D --> E[Latent Manipulation]
-    E --> F[StyleGAN2 Decoder]
-    F --> G[Simulated Result]
+<img width="2571" height="1012" alt="Model_Architecture" src="https://github.com/user-attachments/assets/9ae426ab-1a8b-4c19-b4f1-85e5de1acb4b" />
+
+---
+
+### Pipeline
+
+<img width="5468" height="1341" alt="model_arch" src="https://github.com/user-attachments/assets/27618058-3ecb-4d30-ad00-e441439af1c6" />
+
+
+
